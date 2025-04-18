@@ -10,5 +10,4 @@ Expensify is a full-stack expense management application designed to help users 
 🛠️ Technologies Used
 Frontend: React, Redux, Ant Design
 Backend: Node.js, Express.js, MongoDB
-State Management: Redux (action-creators & reducers)
 Charts & Visualization: Chart.js / Recharts
